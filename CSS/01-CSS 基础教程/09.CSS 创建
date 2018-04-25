@@ -1,0 +1,19 @@
+外部样式表
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css" />
+</head>
+注：不要再属性值与单位之间留有空格
+注：假如你使用"margin-left:20 px"而不是"margin-left: 20px" 它仅在IE6有效 但是在Mozilla/Firefox或Netscape中却无法正常工作
+
+内部样式表
+<head>
+<style type="text/css">
+	hr{color: sienna;}
+	p{margin-left: 20px;}
+	body{background-image: url("怪盗圣少女.jpg");}
+</style>
+</head>
+
+内联样式
+注：在相关的标签内使用样式（style）属性
+<p style="color: sienna; margin-left: 20px">This is a paragraph</p>

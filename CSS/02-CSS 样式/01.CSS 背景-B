@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style type="text/css">
+  	body{
+		background-image: url(金刚.jpg);
+	}
+	p.flower{
+		background-image: url(希德勒的名单.jpg); 
+		padding:20px;
+		width:250px;
+		height:20px;
+		float:left;
+	}
+	a.radio{
+		background-image: url(头号玩家.jpg); 
+		padding: 20px;
+		width:250px;
+		height:20px;
+		float:left;
+	}
+  </style>
+ </head>
+ <body>
+  <p class="flower">我是一个有花纹背景的段落<a href="#" class="radio">我是一个有放射性背景的链接</a></p>
+  <p><b>注释：</b>为了清晰地显示出段落和链接的背景图像，我们为它们设置了少许内边距</p>
+ </body>
+</html>

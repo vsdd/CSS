@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+	input{
+		width:150px;
+		display:block;
+		margin-bottom:10px;
+		background-color:yellow;
+		font-family:Verdana, Arial;
+	}
+	input{
+		width:120px;
+		margin-left:35px;
+		display:block;
+		font-family:Verdana, Arial;
+	}
+   </style>
+ </head>
+ <body>
+  <form name="input" action="" method="get">
+  <input type="text" name="Name" value="Bill" size="20">
+  <input type="button" name="Name" value="Gates" size="20">
+  <input type="button" value="Example Button“>
+  </form>
+ </body>
+</html>
