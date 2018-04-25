@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style type="text/css">
+  [title~=hello]{
+  	color:red;
+  }
+  </style>
+ </head>
+ <body>
+  <h1>可以应用样式</h1>
+  <h2 title="hello world">Hello World</H2>
+  <P title="student hello">Hello W3school students!</h1>
+  <hr/>
+
+  <h1>无法应用样式</h1>
+  <h2 title="world">Hello World</h2>
+  <p title="student">Hello W3school students!</p>
+ </body>
+</html>

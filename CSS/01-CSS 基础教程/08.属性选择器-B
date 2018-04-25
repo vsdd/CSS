@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style type="text/css">
+	[title=W3school]{
+		border:5px solid blue;
+	}
+  </style>
+ </head>
+ <body>
+  <h1>可以应用样式<h1>
+  <img title="W3school" src="怪盗圣少女.jpg" />
+  <br/>
+ </body>
+</html>
