@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style type="text/css">
+  	p{
+		border:red solid thin;
+		outline:yellow dotted thick;
+		outline-width:30px;
+	}
+  </style>
+ </head>
+ <body>
+  <p><b>注释：</b>只有规定了!DOCTYPE时，Internet Explorer 8+ 才支持outline属性</p>
+ </body>
+</html>

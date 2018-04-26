@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style type="text/css">
+  	p{white-space: pre-wrap;}
+  </style>
+ </head>
+ <body>
+	<p>This   paragraph has    a great   many s pa ces  with
+	   its textual  content, but their   preservation will not prevent
+	   line wrapping or line breaking.
+	</p>
+	<p>注：当white-space属性值设置为pre-wrap时，浏览器不仅会保留空白符并保留换行符，还允许自动换行</p>
+ </body>
+</html>

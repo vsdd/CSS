@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+	ul li{
+		list-style-image: url("头号玩家.jpg");
+	}
+  </style>
+ </head>
+ <body>
+  <ul>
+  	<li>Coffee</li>
+	<li>Tea</li>
+	<li>Milk</li>
+ </body>
+</html>

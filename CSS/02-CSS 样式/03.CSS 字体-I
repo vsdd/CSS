@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style type="text/css">
+  	h1{
+		font-size:60px;
+	}
+	h2{
+		font-size:40px;
+	}
+	h3{
+		font-size:3.75em;
+	}
+	h4{
+		font-size:100%;
+	}
+	p{
+		font-size:14px;
+	}
+  </style>
+ </head>
+ <body>
+  <h1>This is heading 1</h1>
+  <h2>This is heading 2</h2>
+  <h3>This is heading 3</h3>
+  <h4>This is heading 4</h4>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+  <p>...</p>
+ </body>
+</html>

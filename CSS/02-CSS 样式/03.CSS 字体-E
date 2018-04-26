@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style type="text/css">
+  	h1{
+		font-family:Georgia, serif;
+	}
+  </style>
+ </head>
+ <body>
+  <h1>This is heading 1</h1>
+  <p style="font-family:Times, TimesNR, 'New Century SChoolbook', Georgia, 'New York', serif">This is a paragraph</p>
+ </body>
+</html>
+
+//使用引号
