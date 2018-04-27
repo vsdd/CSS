@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+  	h1{
+		padding-top: 10px;
+		padding-right: 0.25em;
+		padding-bottom: 2ex;
+		padding-left: 20%;
+	}
+  </style>
+ </head>
+ <body>
+  <h1>I Love You!</h1>
+ </body>
+</html>

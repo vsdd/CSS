@@ -1,0 +1,15 @@
+CSS边框
+
+边框与背景
+
+边框的样式
+	定义多种样式
+	定义单边样式
+
+边框的宽度
+	定义单边宽度
+	没有边框
+
+边框的颜色       border-color
+	定义单边颜色 border-top-color
+	透明边框     transparent

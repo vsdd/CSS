@@ -1,0 +1,16 @@
+CSS定位和浮动
+
+一切皆为框
+块级元素：div h1 p
+行内元素：span strong
+
+CSS定位机制
+普通流
+浮动
+绝对定位
+
+CSS positon属性
+static
+relative
+absolute
+fixed
